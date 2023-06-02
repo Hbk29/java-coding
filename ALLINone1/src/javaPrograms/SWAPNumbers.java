@@ -16,6 +16,8 @@ public class SWAPNumbers {
 		System.out.println(a);  //50
 		System.out.println(b);  //100
 		
+		System.out.println("check completedd");
+		
 		
 	
 
